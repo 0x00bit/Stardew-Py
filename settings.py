@@ -1,0 +1,2 @@
+SCR_WID = 1280
+SCR_HEI = 720
